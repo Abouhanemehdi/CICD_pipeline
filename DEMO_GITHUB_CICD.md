@@ -73,3 +73,7 @@ Ce document te donne un script de demo simple a executer avec ton equipe sur Git
 - Ajouter scans securite (CodeQL / dependency scan)
 - Remplacer les steps `echo deploy` par vrai deploiement (Docker/K8s/Airflow)
 - Ajouter notifications Teams/Slack
+
+## Trigger note
+- Test PR created to validate GitHub Actions checks before merge.
+
